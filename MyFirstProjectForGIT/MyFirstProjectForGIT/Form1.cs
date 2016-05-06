@@ -20,6 +20,7 @@ namespace MyFirstProjectForGIT
         {
             while(true)
             { MessageBox.Show("Errors", "Errors", MessageBoxButtons.OK, MessageBoxIcon.Error); }
+            //Добавлен комментарий
         }
     }
 }
